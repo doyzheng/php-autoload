@@ -1,0 +1,17 @@
+{
+    "name": "doyzheng/php-autoload",
+    "authors": [
+        {
+            "name": "doyzheng",
+            "email": "doyzheng@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "doyzheng\\autoload\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
